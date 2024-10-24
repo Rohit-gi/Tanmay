@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/tanmay/static/css/main.5aa19f89.css",
-    "main.js": "/tanmay/static/js/main.619b1b35.js",
-    "static/js/787.cf482a7c.chunk.js": "/tanmay/static/js/787.cf482a7c.chunk.js",
+    "main.js": "/tanmay/static/js/main.755dc327.js",
     "static/media/Tanmay_Maity_Resume.pdf": "/tanmay/static/media/Tanmay_Maity_Resume.5f75708ea39ca15d5a62.pdf",
     "static/media/speedySocial.png": "/tanmay/static/media/speedySocial.06a3ef091a29bdf55c1e.png",
     "static/media/speedyBuy.png": "/tanmay/static/media/speedyBuy.580efe96c73199a2dc9b.png",
@@ -17,11 +16,10 @@
     "static/media/javascript.png": "/tanmay/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/tanmay/index.html",
     "main.5aa19f89.css.map": "/tanmay/static/css/main.5aa19f89.css.map",
-    "main.619b1b35.js.map": "/tanmay/static/js/main.619b1b35.js.map",
-    "787.cf482a7c.chunk.js.map": "/tanmay/static/js/787.cf482a7c.chunk.js.map"
+    "main.755dc327.js.map": "/tanmay/static/js/main.755dc327.js.map"
   },
   "entrypoints": [
     "static/css/main.5aa19f89.css",
-    "static/js/main.619b1b35.js"
+    "static/js/main.755dc327.js"
   ]
 }
