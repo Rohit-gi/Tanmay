@@ -1,7 +1,6 @@
 import React from 'react'
 import SpeedyBuy from '../assets/speedyBuy.png'
 import speedySocial from '../assets/speedySocial.png'
-import HTML from '../assets/html.png'
 import CSS from '../assets/css.png'
 import ReactImg from '../assets/react.png'
 import { HiArrowNarrowRight } from 'react-icons/hi'
